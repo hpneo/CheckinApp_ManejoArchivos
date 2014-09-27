@@ -24,10 +24,6 @@ namespace CheckinApp_ManejoArchivos
 			global::Android.Runtime.ResourceIdManager.UpdateIdValues();
 		}
 		
-		public static void UpdateIdValues()
-		{
-		}
-		
 		public partial class Attribute
 		{
 			

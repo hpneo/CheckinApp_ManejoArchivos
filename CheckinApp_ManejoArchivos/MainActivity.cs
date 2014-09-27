@@ -63,7 +63,7 @@ namespace CheckinApp_ManejoArchivos
 
 			for (int i = 0; i < lines.Length; i++) {
 				adapter.Add (lines [i]);
-			}l
+			}
 		}
 	}
 }
