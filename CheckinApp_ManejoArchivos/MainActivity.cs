@@ -12,7 +12,7 @@ using System.Collections;
 
 namespace CheckinApp_ManejoArchivos
 {
-	[Activity (Label = "CheckinApp", MainLauncher = true, Icon = "@drawable/icon", Theme="@android:style/Theme.Holo.Light")]
+	[Activity (Label = "CheckinApp Archivos", MainLauncher = true, Icon = "@drawable/icon", Theme="@android:style/Theme.Holo.Light")]
 	public class MainActivity : Activity
 	{
 		private ListView listViewMovies;
